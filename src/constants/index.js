@@ -196,7 +196,7 @@ const projects = [
   {
     name: "Late E",
     description:
-      "Web-based platform that allows users to search, use, buy fro use or sale clothes, shoes, hardware and other appliances. Really cool, cheap and high quality products.",
+      "Web-based platform that allows users to search, use, buy for use or sale clothes, shoes, hardware and other appliances. Really cool, cheap and high quality products.",
     tags: [
       {
         name: "nuxt",
@@ -240,7 +240,7 @@ const projects = [
   {
     name: "Recipes",
     description:
-      "A comprehensive Recipe services booking platform where users can easily book food or even been to view information related to the place they wish to have a treat some day.",
+      "A comprehensive Recipe services booking platform where users can easily book food or even be able to view information related to the place they wish to have a treat some day.",
     tags: [
       {
         name: "Html",
