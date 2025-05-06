@@ -1,8 +1,12 @@
-# React + Vite
+### 📊 GitHub Stats
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allanally&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allanally&layout=compact&theme=radical)
 
-Currently, two official plugins are available:
+### 🏆 GitHub Trophies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Trophies](https://github-profile-trophy.vercel.app/?username=Allanally&theme=radical)
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Allanally&theme=radical)
