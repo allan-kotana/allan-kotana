@@ -1,4 +1,4 @@
-# HiTHERE! AM ALLAN KOTANA👋
+# Hi There ! Am Allan Kotana👋
 ### 🚀 About Me:
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=allan-kotana&label=Profile%20views&color=blue&style=flat" alt="TresorRw" /> 
@@ -21,7 +21,7 @@
 
 ## WakaTime Stats
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=allan-kotana&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=allan_kotana&layout=compact)
 
 ### 👌Sonething to say
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
