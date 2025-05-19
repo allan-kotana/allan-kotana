@@ -21,7 +21,7 @@
 
 ## WakaTime Stats
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=allan_kotana&layout=compact)
+![](https://github-readme-stats.vercel.app/api/[wakatime?username=llan_kotana&layout=compact)
 
 ### 👌Sonething to say
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
