@@ -56,12 +56,12 @@ I'm not just building software — I'm building experiences that matter.
 
 ### Other Tools
 
-![Static Badge](https://img.shields.io/badge/Lighthouse-F44B21?logo=lighthouse&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Lighthouse-F44B21?logo=lighthouse&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat) 
+[Static Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Lighthouse-F44B21?logo=lighthouse&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat) !![Static Badge](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=flat) 
 
 ## WakaTime Stats
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-xi-eight-22.vercel.app/api/wakatime/?username=allan-kotana&cache_seconds=300&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=25" alt="allan-kotana WakaTime Stats" />
+    <img src="https://github-readme-stats-xi-eight-22.vercel.app/api/wakatime/?username=allan_kotana&cache_seconds=300&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=25" alt="allan-kotana WakaTime Stats" />
   </a>
   
 ### 👌Sonething to say
