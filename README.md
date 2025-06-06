@@ -1,4 +1,6 @@
-#👋 Hi, I'm Allan KOTANA 
+###  Allan KOTANA
+
+👋 Hi, 
 I'm a passionate software development enthusiast from Rwanda, dedicated to building clean, scalable software that not only solves real-world problems but also enhances the human experience — with a deep focus on AI integration.
 
 🚀 What I care about:
@@ -19,7 +21,7 @@ I'm not just building software — I'm building experiences that matter.
  - 📧 Reach me via email: allanally92@gmail.com <br>
  - 🔭 Deep into new tech 💪🏾 <br>
 
-### 📊 GitHub & Wakatime Stats
+### 📊 GitHub Stats
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,11 +32,11 @@ I'm not just building software — I'm building experiences that matter.
   </a>
 </p>
 
-### 🏆 GitHub Trophies
+### 🏆 Github Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=allan-kotana&theme=radical)
 
-### 🔥 Streak Stats
+### 🔥 Github Streaks
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allan-kotana&theme=radical)
 
