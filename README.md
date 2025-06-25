@@ -64,6 +64,7 @@ I'm a passionate software development enthusiast from **Rwanda**, dedicated to b
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
+![Drizzle](https://img.shields.io/badge/Drizzle-0A0A0A?logo=drizzle&logoColor=white&style=flat)
 
 ### 🔒 Auth / API / AI / Cloud
 ![SuperTokens](https://img.shields.io/badge/SuperTokens-3C3C3C?logo=super%20tokens&logoColor=white&style=flat)
@@ -72,18 +73,19 @@ I'm a passionate software development enthusiast from **Rwanda**, dedicated to b
 ![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-FF9900?logo=amazonaws&logoColor=white&style=flat)
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FCA52C?logo=aws-lambda&logoColor=black&style=flat)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?logo=google&logoColor=white&style=flat)
 
 ### 🧰 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?logo=lighthouse&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat)
 ![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=flat)
 ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=white&style=flat)
-
 ---
 
 ## 📊 WakaTime Stats
