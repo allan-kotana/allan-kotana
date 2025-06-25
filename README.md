@@ -40,7 +40,6 @@ I'm a passionate software development enthusiast from **Rwanda**, dedicated to b
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allan-kotana&theme=radical)
-
 ---
 
 ## 🛠️ Technologies I Use
