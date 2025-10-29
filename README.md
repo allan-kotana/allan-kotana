@@ -21,7 +21,6 @@ I'm a passionate software development enthusiast from **Rwanda**, dedicated to b
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=allan-kotana&label=Profile%20views&color=blue&style=flat" alt="allan-kotana" />
 </p>
-[![committers.top badge](https://user-badge.committers.top/rwanda_private/allan-kotana.svg)](https://user-badge.committers.top/rwanda_private/allan-kotana)
 
 - 📧 Reach me at: **allanally92@gmail.com**  
 - 🔭 Constantly exploring new tech and creative problem-solving  
