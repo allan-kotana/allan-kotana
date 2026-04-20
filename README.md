@@ -31,8 +31,16 @@ I'm a passionate software development enthusiast from **Rwanda**, dedicated to b
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-xi-eight-22.vercel.app/api?username=allan-kotana&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-xi-eight-22.vercel.app/api/top-langs/?username=allan-kotana&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="./profile/stats.svg" alt="My GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="./profile/top-langs.svg" alt="Allan's Top Languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="./profile/wakatime.svg" alt="Allan's WakaTime Stats" />
+  </a>
+/>
 </p>
 
 ### 🏆 GitHub Trophies
