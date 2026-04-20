@@ -31,7 +31,7 @@ I'm a passionate software development enthusiast from **Rwanda**, dedicated to b
 ## 📈 GitHub Stats
 
 <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github-readme-stats.vercel.app/api?username=allan-kotana&show_icons=true">
     <img src="./profile/stats.svg" alt="My GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
