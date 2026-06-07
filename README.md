@@ -1,22 +1,8 @@
-# 👨🏾‍💻 Allan KOTANA
+# Allan KOTANA (Real G)
 
 Hi there! 👋  
-I'm a passionate software development enthusiast from **Rwanda**, dedicated to building clean, scalable software that solves real-world problems and elevates the human experience — with a deep commitment to **AI integration**.
+I'm a passionate software development enthusiast from **Rwanda**, dedicated to building clean, scalable software that solves real-world problems and elevates the human experience.
 
----
-
-## 🚀 What Drives Me
-
-- 🧠 **Human-Centered AI** – I care about crafting tools that think with you, not just for you.
-- 🛠️ **Clean, Scalable Code** – Architecture and readability matter.
-- 🌍 **Impact Over Hype** – I build for purpose, not trends.
-- 🤝 **Collaborative Growth** – I thrive in teams that value precision, empathy, and innovation.
-
-> I'm not just building software — I'm building experiences that matter.
-
----
-
-## 🧠 About Me
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=allan-kotana&label=Profile%20views&color=blue&style=flat" alt="allan-kotana" />
